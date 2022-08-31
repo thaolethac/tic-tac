@@ -21,6 +21,7 @@ function myfunction() {
     game[i].innerHTML = " ";
   }
   check = 0;
+  location.reload()
 }
 
 var arr2DX = new Array();
